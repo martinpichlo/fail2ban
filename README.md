@@ -1,4 +1,4 @@
-# docker-fail2ban
+# fail2ban
 Fail2ban service for docker host based on Alpine Linux
 
 ## Quick Start
